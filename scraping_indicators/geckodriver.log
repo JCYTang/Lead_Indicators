@@ -1,0 +1,755 @@
+1617859333616	geckodriver	INFO	Listening on 127.0.0.1:54838
+1617859336741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilegvImR8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617859340562	Marionette	INFO	Listening on port 54846
+1617859340899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 724 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617860271488	geckodriver	INFO	Listening on 127.0.0.1:55654
+1617860274599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile25Kxmq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617860277215	Marionette	INFO	Listening on port 55664
+1617860277238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617860293895	Marionette	INFO	Stopped listening on port 55664
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1617860396041	geckodriver	INFO	Listening on 127.0.0.1:55849
+1617860399173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileaKnf6G"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617860401681	Marionette	INFO	Listening on port 55859
+1617860401810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 7253 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617861335662	geckodriver	INFO	Listening on 127.0.0.1:56657
+1617861338794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilecV2Zi8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617861341263	Marionette	INFO	Listening on port 56677
+1617861341428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 739 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617861531455	Marionette	INFO	Stopped listening on port 56677
+1617861574331	geckodriver	INFO	Listening on 127.0.0.1:64595
+1617861577446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilekLwMtr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617861580003	Marionette	INFO	Listening on port 64604
+1617861580083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 7456 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617862732269	geckodriver	INFO	Listening on 127.0.0.1:49771
+1617862735406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile7ODKaf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617862739787	Marionette	INFO	Listening on port 49780
+1617862740250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 2605 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617863042354	geckodriver	INFO	Listening on 127.0.0.1:50147
+1617863045503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileg25cAp"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617863047828	Marionette	INFO	Listening on port 50158
+1617863048178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 780 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617867732506	geckodriver	INFO	Listening on 127.0.0.1:53601
+1617867735647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileNKu1ad"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617867738504	Marionette	INFO	Listening on port 53610
+1617867738781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 1205 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617867885733	geckodriver	INFO	Listening on 127.0.0.1:53873
+1617867888867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilejJaXTP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617867891305	Marionette	INFO	Listening on port 53883
+1617867891492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 7299 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617867983916	geckodriver	INFO	Listening on 127.0.0.1:54045
+1617867987035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilevk4rg6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617867989312	Marionette	INFO	Listening on port 54054
+1617867989664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 10 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617868000001	Marionette	INFO	Stopped listening on port 54054
+1617922808759	geckodriver	INFO	Listening on 127.0.0.1:53626
+1617922811875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileuwzTBx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists,1617922816566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\1617922842223	Marionette	INFO	Stopped listening on port 53638
+ng in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617922820203	Marionette	INFO	Listening on port 53697
+1617922820723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617922824311	Marionette	INFO	Stopped listening on port 53697
+1617929806827	geckodriver	INFO	Listening on 127.0.0.1:57440
+1617929809936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileqaYnfv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617929813183	Marionette	INFO	Listening on port 57453
+1617929813594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 2757 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617930317684	geckodriver	INFO	Listening on 127.0.0.1:58007
+1617930320788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile2zN2uz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617930323235	Marionette	INFO	Listening on port 58017
+1617930323424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 3324 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617930361560	Marionette	INFO	Stopped listening on port 58017
+1617930407435	geckodriver	INFO	Listening on 127.0.0.1:58166
+1617930410557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilef7rIoE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617930412983	Marionette	INFO	Listening on port 58175
+1617930413188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 7783 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617930458132	Marionette	INFO	Stopped listening on port 58175
+1617930583362	geckodriver	INFO	Listening on 127.0.0.1:58414
+1617930586483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileDXnfOx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617930589235	Marionette	INFO	Listening on port 58423
+1617930589636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 2272 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617931106314	geckodriver	INFO	Listening on 127.0.0.1:58874
+1617931109437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilejb5UhQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617931111402	Marionette	INFO	Listening on port 58884
+1617931111492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 6541 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617931279699	geckodriver	INFO	Listening on 127.0.0.1:59091
+1617931282825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileTwBcCa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617931285211	Marionette	INFO	Listening on port 59100
+1617931285460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 7443 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617931313437	Marionette	INFO	Stopped listening on port 59100
+1617931334970	geckodriver	INFO	Listening on 127.0.0.1:59231
+1617931338111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileEZw9ij"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617931340251	Marionette	INFO	Listening on port 59240
+1617931340773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 7113 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617931357204	Marionette	INFO	Stopped listening on port 59240
+1617931437814	geckodriver	INFO	Listening on 127.0.0.1:59420
+1617931440924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileYZhhJM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617931443057	Marionette	INFO	Listening on port 59430
+1617931443077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 7508 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617931453022	Marionette	INFO	Stopped listening on port 59430
+1617931519647	geckodriver	INFO	Listening on 127.0.0.1:59590
+1617931522751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileNNSfLU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617931524768	Marionette	INFO	Listening on port 59600
+1617931524792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 6710 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 560 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617931588229	Marionette	INFO	Stopped listening on port 59600
+1617931622126	geckodriver	INFO	Listening on 127.0.0.1:59754
+1617931625267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileKitGP0"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617931627261	Marionette	INFO	Listening on port 59765
+1617931627354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 4248 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617931634640	Marionette	INFO	Stopped listening on port 59765
+1617931800345	geckodriver	INFO	Listening on 127.0.0.1:59966
+1617931803454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilemEIkOp"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617931805432	Marionette	INFO	Listening on port 59976
+1617931805534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 5189 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617931814094	Marionette	INFO	Stopped listening on port 59976
+1617931850376	geckodriver	INFO	Listening on 127.0.0.1:60096
+1617931853532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilen5Sja9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617931855509	Marionette	INFO	Listening on port 60105
+1617931855576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 7704 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617931864364	Marionette	INFO	Stopped listening on port 60105
+1617933604314	geckodriver	INFO	Listening on 127.0.0.1:61667
+1617933607451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilewKJF0x"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617933610023	Marionette	INFO	Listening on port 61677
+1617933610117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 3929 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 1887 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617933620299	Marionette	INFO	Stopped listening on port 61677
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0016,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0016,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1617933753420	geckodriver	INFO	Listening on 127.0.0.1:61866
+1617933756524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilef76nWK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617933759133	Marionette	INFO	Listening on port 61876
+1617933759159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 4750 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617933768437	Marionette	INFO	Stopped listening on port 61876
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 3841 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617933816232	geckodriver	INFO	Listening on 127.0.0.1:62011
+1617933819347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile48WiLV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617933821305	Marionette	INFO	Listening on port 62020
+1617933821371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 17 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 6910 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617933833190	Marionette	INFO	Stopped listening on port 62020
+1617933957346	geckodriver	INFO	Listening on 127.0.0.1:62362
+1617933960466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileWsHSHb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617933962539	Marionette	INFO	Listening on port 62372
+1617933962636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 1679 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 6256 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 1588 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617934003567	Marionette	INFO	Stopped listening on port 62372
+1617939893830	geckodriver	INFO	Listening on 127.0.0.1:55682
+1617939896975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilevGMEvN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617939899799	Marionette	INFO	Listening on port 55692
+1617939900137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 797 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js line 1 > eval line 5732 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617939913226	Marionette	INFO	Stopped listening on port 55692
+1618182008737	geckodriver	INFO	Listening on 127.0.0.1:65402
+1618182011849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileyRbhMQ"
+*** You are running in headless mode.
+console.warn: SearchS1618182015807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileQ1618182043063	Marionette	INFO	Stopped listening on port 65412
+rchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618182019084	Marionette	INFO	Listening on port 65461
+1618182019462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618182023455	Marionette	INFO	Stopped listening on port 65461
+1618279657363	geckodriver	INFO	Listening on 127.0.0.1:59042
+1618279660484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilehsX7tD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618279666135	Marionette	INFO	Listening on port 59050
+1618279666594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618280254710	geckodriver	INFO	Listening on 127.0.0.1:59510
+1618280257820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile3UXkWt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618280260620	Marionette	INFO	Listening on port 59518
+1618280260951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 1658 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 2035 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618280293824	Marionette	INFO	Stopped listening on port 59518
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618281971149	geckodriver	INFO	Listening on 127.0.0.1:60704
+1618281974288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilei84vKA"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618281977035	Marionette	INFO	Listening on port 60712
+1618281977476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 4785 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 3519 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618282039191	Marionette	INFO	Stopped listening on port 60712
+1618288030312	geckodriver	INFO	Listening on 127.0.0.1:62995
+1618288033425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileptGlTy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618288036762	Marionette	INFO	Listening on port 63003
+1618288037074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 7106 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1618445538061	geckodriver	INFO	Listening on 127.0.0.1:62746
+1618445541197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilewMyJf4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445544675	Marionette	INFO	Listening on port 62757
+1618445544923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618445574764	Marionette	INFO	Stopped listening on port 62757
+1618449232578	geckodriver	INFO	Listening on 127.0.0.1:64683
+1618449235720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileh6GH7j"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618449238659	Marionette	INFO	Listening on port 64694
+1618449238912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618449241497	Marionette	INFO	Stopped listening on port 64694
+1618451701698	geckodriver	INFO	Listening on 127.0.0.1:51666
+1618451704864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileoo4JrM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618451707864	Marionette	INFO	Listening on port 51674
+1618451708029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/0iqFw_ToJ2jGmcdewok9OyePTo5XIlOWuQOUYfHL4Is.js line 1 > eval line 2412 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618467642506	geckodriver	INFO	Listening on 127.0.0.1:56438
+1618467645653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile6ukEPu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618467648822	Marionette	INFO	Listening on port 56446
+1618467648855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618467648983	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/0iqFw_ToJ2jGmcdewok9OyePTo5XIlOWuQOUYfHL4Is.js line 1 > eval line 2430 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618469334691	geckodriver	INFO	Listening on 127.0.0.1:57145
+1618469337798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileS26vKz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618469340308	Marionette	INFO	Listening on port 57153
+1618469340432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/0iqFw_ToJ2jGmcdewok9OyePTo5XIlOWuQOUYfHL4Is.js line 1 > eval line 5395 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618473567323	geckodriver	INFO	Listening on 127.0.0.1:63352
+1618473570453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileVXXzJL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618473573233	Marionette	INFO	Listening on port 63361
+1618473573653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 6065 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618473608843	Marionette	INFO	Stopped listening on port 63361
+1618473953389	geckodriver	INFO	Listening on 127.0.0.1:63630
+1618473956503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileVPIH3g"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618473959318	Marionette	INFO	Listening on port 63638
+1618473959676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 4486 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618474000668	Marionette	INFO	Stopped listening on port 63638
+1618474059849	geckodriver	INFO	Listening on 127.0.0.1:63775
+1618474062975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile1jotVK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618474065632	Marionette	INFO	Listening on port 63783
+1618474066158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 491 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618474102348	Marionette	INFO	Stopped listening on port 63783
+1618474136552	geckodriver	INFO	Listening on 127.0.0.1:63912
+1618474139708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileMCJsFv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618474142363	Marionette	INFO	Listening on port 63922
+1618474142384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 1760 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618474179023	Marionette	INFO	Stopped listening on port 63922
+1618474290525	geckodriver	INFO	Listening on 127.0.0.1:64129
+1618474293628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofiled5vMtW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618474296360	Marionette	INFO	Listening on port 64142
+1618474296785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 1114 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618474374707	Marionette	INFO	Stopped listening on port 64142
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618474409763	geckodriver	INFO	Listening on 127.0.0.1:64262
+1618474412875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilefAxdf5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618474415195	Marionette	INFO	Listening on port 64274
+1618474415514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 1273 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618474541793	Marionette	INFO	Stopped listening on port 64274
+1618474585413	geckodriver	INFO	Listening on 127.0.0.1:64418
+1618474588583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileOX6t9l"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618474591208	Marionette	INFO	Listening on port 64427
+1618474591259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 2256 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618474868452	geckodriver	INFO	Listening on 127.0.0.1:64653
+1618474871587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileK4H23K"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618474874437	Marionette	INFO	Listening on port 64662
+1618474874755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 291 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 6606 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618474938971	Marionette	INFO	Stopped listening on port 64662
+1618475317993	geckodriver	INFO	Listening on 127.0.0.1:64895
+1618475321166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileCCQT9H"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618475323933	Marionette	INFO	Listening on port 64903
+1618475324376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618475341484	Marionette	INFO	Stopped listening on port 64903
+1618475373407	geckodriver	INFO	Listening on 127.0.0.1:64965
+1618475376534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile9Gr7mb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618475379326	Marionette	INFO	Listening on port 64973
+1618475379670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 2547 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618475584252	geckodriver	INFO	Listening on 127.0.0.1:65134
+1618475587380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileulWG5t"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618475589987	Marionette	INFO	Listening on port 65142
+1618475590057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 4579 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UsLlvuITw1lhdTUM-GMkld8y8Djv7Avn-D3pKFbWhiw.js line 1 > eval line 1857 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618475655934	Marionette	INFO	Stopped listening on port 65142
+1618527611166	geckodriver	INFO	Listening on 127.0.0.1:62719
+1618527614266	mozrunner::runner	INFO	Running command: "C:\\P1618527616565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\ruconsole.warn: SearchS*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618527619499	Marionette	INFO	Listening on port 62744
+1618527619736	Marionette	WA1618527636188	Marionette	INFO	Stopped listening on port 62732
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618536776584	geckodriver	INFO	Listening on 127.0.0.1:49203
+1618536779724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileZZJOF2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618536783258	Marionette	INFO	Listening on port 49212
+1618536783441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618536787507	Marionette	INFO	Stopped listening on port 49212
+1618536828927	geckodriver	INFO	Listening on 127.0.0.1:49275
+1618536832036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileToJJa3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618536834717	Marionette	INFO	Listening on port 49283
+1618536835226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 6754 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 3938 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618536899795	Marionette	INFO	Stopped listening on port 49283
+1618537088550	geckodriver	INFO	Listening on 127.0.0.1:49500
+1618537091690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofiletZmVTa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618537094644	Marionette	INFO	Listening on port 49509
+1618537094916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 2558 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 538 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618537222414	Marionette	INFO	Stopped listening on port 49509
+1618537707920	geckodriver	INFO	Listening on 127.0.0.1:49866
+1618537711044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileQyTKxG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618537713825	Marionette	INFO	Listening on port 49875
+1618537714211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 3014 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 752 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618537783013	Marionette	INFO	Stopped listening on port 49875
+1618550766006	geckodriver	INFO	Listening on 127.0.0.1:53309
+1618550769106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilePhplBF"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618550772042	Marionette	INFO	Listening on port 53317
+1618550772261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 7099 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 2343 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618550838809	Marionette	INFO	Stopped listening on port 53317
+1618786812057	geckodriver	INFO	Listening on 127.0.0.1:49619
+1618786815175	mozrunner::runner	INFO	Running command: "C:\\P1618786815583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618786819330	Marionette	INFO	Listening on port 49635
+161871618786819475	Marionette	INFO	Listening on port 49639
+1618786819728	Marionette	WA1618786842000	Marionette	INFO	Stopped listening on port 49635
+8786824928	Marionette	INFO	Stopped listening on port 49639
+1618808592068	geckodriver	INFO	Listening on 127.0.0.1:59447
+1618808595178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile4DiRhb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618808598557	Marionette	INFO	Listening on port 59457
+1618808598867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 6476 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 3540 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618808616890	Marionette	INFO	Stopped listening on port 59457
+1618809227406	geckodriver	INFO	Listening on 127.0.0.1:59987
+1618809230536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileAjOIbt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618809234357	Marionette	INFO	Listening on port 59995
+1618809234720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 2638 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 7077 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618809284568	Marionette	INFO	Stopped listening on port 59995
+1618873208635	geckodriver	INFO	Listening on 127.0.0.1:61336
+1618873211733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofile5ZwZe2"
+*** You are running in headless mode.
+console.warn: SearchS1618873215210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "1618873215422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618873220523	Marionette	INFO	Stopped listening on port 61347
+rchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618873219105	Marionette	INFO	Listening on port 61371
+1618873219384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618873221413	Marionette	INFO	Stopped listening on port 61371
+1618959607871	geckodriver	INFO	Listening on 127.0.0.1:55243
+1618959610984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofiletNvh3B"
+*** You are running in headless mode.
+console.warn: SearchS1618959615102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\1618959615582	Marionette	INFO	Listening on port 55255
+1618959615967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618959636914	Marionette	INFO	Stopped listening on port 55255
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+618009	Marionette	INFO	Listening on port 55278
+1618959618301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618959620510	Marionette	INFO	Stopped listening on port 55278
+1619046010285	geckodriver	INFO	Listening on 127.0.0.1:59991
+1619046013400	mozrunner::runner	INFO	Running command: "C:\\P1619046015514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\ruconsole.warn: SearchS*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619046019300	Marionette	INFO	Listening on port 60122
+1619046019659	Marionette	WA1619046039579	Marionette	INFO	Stopped listening on port 60051
+9046022128	Marionette	INFO	Stopped listening on port 60122
+1619132410088	geckodriver	INFO	Listening on 127.0.0.1:60650
+1619132413215	mozrunner::runner	INFO	Running command: "C:\\P1619132414844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619132417797	Marionette	INFO	Listening on port 60671
+1619132417983	Marionette	WA1619132420839	Marionette	INFO	Stopped listening on port 60661619132420934	Marionette	INFO	Stopped listening on port 60671
+1619391608564	geckodriver	INFO	Listening on 127.0.0.1:49511
+1619391611676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofiletW8eO5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619391616433	Marionette	INFO	Listening on port 49523
+1619391616575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619391637755	Marionette	INFO	Stopped listening on port 49523
+rchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619391618542	Marionette	INFO	Listening on port 49538
+1619391618914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619391621031	Marionette	INFO	Stopped listening on port 49538
+1619564412502	geckodriver	INFO	Listening on 127.0.0.1:58520
+1619564415587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileR5PCmL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619564420119	Marionette	INFO	Listening on port 58539
+1619564420456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619564440152	Marionette	INFO	Stopped listening on port 58539
+rchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619564423904	Marionette	INFO	Listening on port 58554
+1619564424068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619564425781	Marionette	INFO	Stopped listening on port 58554
+1619650806622	geckodriver	INFO	Listening on 127.0.0.1:65530
+1619650809748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileYJtFF9"
+*** You are running in headless mode.
+1619650811841	geckodriver	INFO	Listening on 127.0.0.1:49169
+1619650814997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileDRbEAh"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619650819617	Marionette	INFO	Listening on port 49180
+1619650819822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619650823137	Marionette	INFO	Stopped listening on port 49180
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1619737209560	geckodriver	INFO	Listening on 127.0.0.1:57635
+1619737212672	mozrunner::runner	INFO	Running command: "C:\\P1619737215625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\ruconsole.warn: SearchS*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619737220472	Marionette	INFO	Listening on port 57663
+1619737220539	Marionette	WA1619737224828	Marionette	INFO	Stopped listening on port 57651619737243684	Marionette	INFO	Stopped listening on port 57663
+[Parent 23904, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619823608307	geckodriver	INFO	Listening on 127.0.0.1:64174
+1619823611484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilewtFGq4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619823615473	Marionette	INFO	Listening on port 64184
+1619823615710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V1lNzVGDXdksv1u627CI7W0-mHZYzGGGZdNtnF4LgGE.js line 1 > eval line 330 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V1lNzVGDXdksv1u627CI7W0-mHZYzGGGZdNtnF4LgGE.js line 1 > eval line 3933 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619823664343	Marionette	INFO	Stopped listening on port 64184
+[Child 20260, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619996408790	geckodriver	INFO	Listening on 127.0.0.1:49978
+1619996411924	mozrunner::runner	INFO	Running command: "C:\\P1619996414891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\ruconsole.warn: SearchS*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619996419412	Marionette	INFO	Listening on port 50006
+1619996419719	Marionette	WA1619996436873	Marionette	INFO	Stopped listening on port 49994
+9996421658	Marionette	INFO	Stopped listening on port 50006
+1620082810193	geckodriver	INFO	Listening on 127.0.0.1:54985
+1620082813333	mozrunner::runner	INFO	Running command: "C:\\P1620082815836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)162001620082819721	Marionette	INFO	Listening on port 55013
+1620082820038	Marionette	WA1620082839186	Marionette	INFO	Stopped listening on port 55002
+0082823339	Marionette	INFO	Stopped listening on port 55013
+1620172488886	geckodriver	INFO	Listening on 127.0.0.1:51252
+1620172491998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileeKl635"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620172496209	Marionette	INFO	Listening on port 51265
+1620172496254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620172499135	Marionette	INFO	Stopped listening on port 51265
+1620172565956	geckodriver	INFO	Listening on 127.0.0.1:51400
+1620172569057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileu9NLsq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620172572983	Marionette	INFO	Listening on port 51411
+1620172573219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620172575483	Marionette	INFO	Stopped listening on port 51411
+1620174876640	geckodriver	INFO	Listening on 127.0.0.1:53698
+1620174879784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilezez8t6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620174884052	Marionette	INFO	Listening on port 53708
+1620174884109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620174902593	Marionette	INFO	Stopped listening on port 53708
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620182481686	geckodriver	INFO	Listening on 127.0.0.1:59736
+1620182484756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileY3QXf7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620182488809	Marionette	INFO	Listening on port 59746
+1620182488934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620182492949	Marionette	INFO	Stopped listening on port 59746
+1620182529230	geckodriver	INFO	Listening on 127.0.0.1:59812
+1620182532305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileTsabi9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620182536160	Marionette	INFO	Listening on port 59826
+1620182536485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620182539870	Marionette	INFO	Stopped listening on port 59826
+1620255612425	geckodriver	INFO	Listening on 127.0.0.1:56815
+1620255615502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilecTtyUS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620255620032	Marionette	INFO	Listening on port 56828
+1620255620338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620255624534	Marionette	INFO	Stopped listening on port 56828
+rchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620255623276	Marionette	INFO	Listening on port 56842
+1620255623311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620255625122	Marionette	INFO	Stopped listening on port 56842
+1620342014700	geckodriver	INFO	Listening on 127.0.0.1:60852
+1620342017782	mozrunner::runner	INFO	Running command: "C:\\P1620342019822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1620342024802	Marionette	INFO	Listening on port 60870
+1620342024935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620342048488	Marionette	INFO	Stopped listening on port 60870
+0342030394	Marionette	INFO	Stopped listening on port 60879
+1620601212886	geckodriver	INFO	Listening on 127.0.0.1:63891
+1620601216015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofileZQzuyX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620601221008	Marionette	INFO	Listening on port 63902
+1620601221434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620601242482	Marionette	INFO	Stopped listening on port 63902
+rchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620601223563	Marionette	INFO	Listening on port 63916
+1620601223631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620601225889	Marionette	INFO	Stopped listening on port 63916
+1620632780829	geckodriver	INFO	Listening on 127.0.0.1:64424
+1620632783903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\JEREMY~1.TAN\\AppData\\Local\\Temp\\rust_mozprofilezKlxTC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620632788967	Marionette	INFO	Listening on port 64432
+1620632789236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620632796006	Marionette	INFO	Stopped listening on port 64432
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

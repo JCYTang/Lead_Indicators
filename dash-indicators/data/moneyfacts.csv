@@ -1,0 +1,987 @@
+Date,Id,Term,Company,Rate,MaxLTV
+30/06/2019,,2yr,Bank of Ireland UK,1.87,75
+30/06/2019,,2yr,Barclays Mortgage,1.63,75
+30/06/2019,,2yr,Clydesdale Bank,1.84,75
+30/06/2019,,2yr,Coventry BS,1.69,75
+30/06/2019,,2yr,HSBC,1.64,75
+30/06/2019,,2yr,Leeds BS,1.79,75
+30/06/2019,,2yr,Metro Bank,2.09,75
+30/06/2019,,2yr,NatWest,1.6,75
+30/06/2019,,2yr,Newcastle BS,2.05,75
+30/06/2019,,2yr,Nottingham BS,1.6,75
+30/06/2019,,2yr,Principality BS,1.75,75
+30/06/2019,,2yr,Royal Bank of Scotland,1.6,75
+30/06/2019,,2yr,Santander,1.74,75
+30/06/2019,,2yr,Skipton BS,1.88,75
+30/06/2019,,2yr,Virgin Money,1.93,75
+30/06/2019,,2yr,Yorkshire Bank,1.99,75
+30/06/2019,,2yr,Yorkshire Building Society,1.7,75
+30/06/2019,,5yr,Bank of Ireland UK,2.45,75
+30/06/2019,,5yr,Barclays Mortgage,2.05,75
+30/06/2019,,5yr,Clydesdale Bank,2.29,75
+30/06/2019,,5yr,Coventry BS,2.09,75
+30/06/2019,,5yr,HSBC,2.09,75
+30/06/2019,,5yr,Leeds BS,2.15,75
+30/06/2019,,5yr,Metro Bank,2.34,75
+30/06/2019,,5yr,NatWest,2.04,75
+30/06/2019,,5yr,Newcastle BS,2.75,75
+30/06/2019,,5yr,Nottingham BS,2.1,75
+30/06/2019,,5yr,Principality BS,2.15,75
+30/06/2019,,5yr,Royal Bank of Scotland,2.08,75
+30/06/2019,,5yr,Santander,2.09,75
+30/06/2019,,5yr,Skipton BS,2.09,75
+30/06/2019,,5yr,Virgin Money,2.18,75
+30/06/2019,,5yr,Yorkshire Bank,2.49,75
+30/06/2019,,5yr,Yorkshire Building Society,2,75
+31/07/2019,,2yr,Bank of Ireland UK,1.56,75
+31/07/2019,,2yr,Barclays Mortgage,1.48,75
+31/07/2019,,2yr,Clydesdale Bank,1.64,75
+31/07/2019,,2yr,Coventry BS,1.65,75
+31/07/2019,,2yr,HSBC,1.49,75
+31/07/2019,,2yr,Leeds BS,1.62,75
+31/07/2019,,2yr,Metro Bank,2.09,75
+31/07/2019,,2yr,NatWest,1.46,75
+31/07/2019,,2yr,Newcastle BS,2.05,75
+31/07/2019,,2yr,Nottingham BS,1.6,75
+31/07/2019,,2yr,Principality BS,1.65,75
+31/07/2019,,2yr,Royal Bank of Scotland,1.46,75
+31/07/2019,,2yr,Santander,1.49,75
+31/07/2019,,2yr,Skipton BS,1.77,75
+31/07/2019,,2yr,Virgin Money,1.75,75
+31/07/2019,,2yr,Yorkshire Bank,1.79,75
+31/07/2019,,2yr,Yorkshire Building Society,1.57,75
+31/07/2019,,5yr,Bank of Ireland UK,2.12,75
+31/07/2019,,5yr,Barclays Mortgage,2.05,75
+31/07/2019,,5yr,Clydesdale Bank,2.29,75
+31/07/2019,,5yr,Coventry BS,2.15,75
+31/07/2019,,5yr,HSBC,1.99,75
+31/07/2019,,5yr,Leeds BS,2.2,75
+31/07/2019,,5yr,Metro Bank,2.34,75
+31/07/2019,,5yr,NatWest,1.98,75
+31/07/2019,,5yr,Newcastle BS,2.7,75
+31/07/2019,,5yr,Nottingham BS,2.1,75
+31/07/2019,,5yr,Principality BS,2.15,75
+31/07/2019,,5yr,Royal Bank of Scotland,2.04,75
+31/07/2019,,5yr,Santander,2.19,75
+31/07/2019,,5yr,Skipton BS,2.14,75
+31/07/2019,,5yr,Virgin Money,2.28,75
+31/07/2019,,5yr,Yorkshire Bank,2.49,75
+31/07/2019,,5yr,Yorkshire Building Society,2,75
+31/08/2019,,2yr,Bank of Ireland UK,1.56,75
+31/08/2019,,2yr,Barclays Mortgage,1.39,75
+31/08/2019,,2yr,Clydesdale Bank,1.59,75
+31/08/2019,,2yr,Coventry BS,1.65,75
+31/08/2019,,2yr,HSBC,1.44,75
+31/08/2019,,2yr,Leeds BS,1.62,75
+31/08/2019,,2yr,Metro Bank,2.09,75
+31/08/2019,,2yr,NatWest,1.39,75
+31/08/2019,,2yr,Newcastle BS,2.05,75
+31/08/2019,,2yr,Nottingham BS,1.6,75
+31/08/2019,,2yr,Principality BS,1.81,75
+31/08/2019,,2yr,Royal Bank of Scotland,1.39,75
+31/08/2019,,2yr,Santander,1.39,75
+31/08/2019,,2yr,Skipton BS,1.69,75
+31/08/2019,,2yr,Virgin Money,1.75,75
+31/08/2019,,2yr,Yorkshire Bank,1.79,75
+31/08/2019,,2yr,Yorkshire Building Society,1.57,75
+31/08/2019,,5yr,Bank of Ireland UK,2.12,75
+31/08/2019,,5yr,Barclays Mortgage,1.93,75
+31/08/2019,,5yr,Clydesdale Bank,2.29,75
+31/08/2019,,5yr,Coventry BS,2.05,75
+31/08/2019,,5yr,HSBC,1.94,75
+31/08/2019,,5yr,Leeds BS,2.2,75
+31/08/2019,,5yr,Metro Bank,2.34,75
+31/08/2019,,5yr,NatWest,1.97,75
+31/08/2019,,5yr,Newcastle BS,2.7,75
+31/08/2019,,5yr,Nottingham BS,2.1,75
+31/08/2019,,5yr,Principality BS,2.13,75
+31/08/2019,,5yr,Royal Bank of Scotland,1.97,75
+31/08/2019,,5yr,Santander,1.95,75
+31/08/2019,,5yr,Skipton BS,2.14,75
+31/08/2019,,5yr,Virgin Money,2.31,75
+31/08/2019,,5yr,Yorkshire Bank,2.49,75
+31/08/2019,,5yr,Yorkshire Building Society,2,75
+30/09/2019,,2yr,Bank of Ireland UK,1.56,75
+30/09/2019,,2yr,Barclays Mortgage,1.35,75
+30/09/2019,,2yr,Clydesdale Bank,1.59,75
+30/09/2019,,2yr,Coventry BS,1.59,75
+30/09/2019,,2yr,HSBC,1.29,75
+30/09/2019,,2yr,Leeds BS,1.62,75
+30/09/2019,,2yr,Metro Bank,2.09,75
+30/09/2019,,2yr,NatWest,1.25,75
+30/09/2019,,2yr,Newcastle BS,2.05,75
+30/09/2019,,2yr,Nottingham BS,1.6,75
+30/09/2019,,2yr,Principality BS,1.71,75
+30/09/2019,,2yr,Royal Bank of Scotland,1.25,75
+30/09/2019,,2yr,Santander,1.39,75
+30/09/2019,,2yr,Skipton BS,1.69,75
+30/09/2019,,2yr,Virgin Money,1.75,75
+30/09/2019,,2yr,Yorkshire Bank,1.79,75
+30/09/2019,,2yr,Yorkshire Building Society,1.52,75
+30/09/2019,,5yr,Bank of Ireland UK,1.98,75
+30/09/2019,,5yr,Barclays Mortgage,1.83,75
+30/09/2019,,5yr,Clydesdale Bank,1.94,75
+30/09/2019,,5yr,Coventry BS,1.95,75
+30/09/2019,,5yr,HSBC,1.84,75
+30/09/2019,,5yr,Leeds BS,2.04,75
+30/09/2019,,5yr,Metro Bank,2.34,75
+30/09/2019,,5yr,NatWest,1.79,75
+30/09/2019,,5yr,Newcastle BS,2.7,75
+30/09/2019,,5yr,Nottingham BS,2.1,75
+30/09/2019,,5yr,Principality BS,1.99,75
+30/09/2019,,5yr,Royal Bank of Scotland,1.85,75
+30/09/2019,,5yr,Santander,1.95,75
+30/09/2019,,5yr,Skipton BS,2.04,75
+30/09/2019,,5yr,Virgin Money,2,75
+30/09/2019,,5yr,Yorkshire Bank,2.49,75
+30/09/2019,,5yr,Yorkshire Building Society,1.91,75
+31/10/2019,,2yr,Bank of Ireland UK,1.56,75
+31/10/2019,,2yr,Barclays Mortgage,1.35,75
+31/10/2019,,2yr,Clydesdale Bank,1.54,75
+31/10/2019,,2yr,Coventry BS,1.49,75
+31/10/2019,,2yr,HSBC,1.29,75
+31/10/2019,,2yr,Leeds BS,1.62,75
+31/10/2019,,2yr,Metro Bank,2.09,75
+31/10/2019,,2yr,NatWest,1.25,75
+31/10/2019,,2yr,Newcastle BS,1.99,75
+31/10/2019,,2yr,Nottingham BS,1.54,75
+31/10/2019,,2yr,Principality BS,1.71,75
+31/10/2019,,2yr,Royal Bank of Scotland,1.25,75
+31/10/2019,,2yr,Santander,1.39,75
+31/10/2019,,2yr,Skipton BS,1.59,75
+31/10/2019,,2yr,Virgin Money,1.7,75
+31/10/2019,,2yr,Yorkshire Bank,1.54,75
+31/10/2019,,2yr,Yorkshire Building Society,1.52,75
+31/10/2019,,5yr,Bank of Ireland UK,1.98,75
+31/10/2019,,5yr,Barclays Mortgage,1.78,75
+31/10/2019,,5yr,Clydesdale Bank,1.94,75
+31/10/2019,,5yr,Coventry BS,1.95,75
+31/10/2019,,5yr,HSBC,1.84,75
+31/10/2019,,5yr,Leeds BS,2.04,75
+31/10/2019,,5yr,Metro Bank,2.34,75
+31/10/2019,,5yr,NatWest,1.79,75
+31/10/2019,,5yr,Newcastle BS,2.49,75
+31/10/2019,,5yr,Nottingham BS,2.1,75
+31/10/2019,,5yr,Principality BS,1.99,75
+31/10/2019,,5yr,Royal Bank of Scotland,1.85,75
+31/10/2019,,5yr,Santander,1.95,75
+31/10/2019,,5yr,Skipton BS,2.04,75
+31/10/2019,,5yr,Virgin Money,2,75
+31/10/2019,,5yr,Yorkshire Bank,2.04,75
+31/10/2019,,5yr,Yorkshire Building Society,1.91,75
+30/11/2019,,2yr,Bank of Ireland UK,1.56,75
+30/11/2019,,2yr,Barclays Mortgage,1.35,75
+30/11/2019,,2yr,Clydesdale Bank,1.39,75
+30/11/2019,,2yr,Coventry BS,1.49,75
+30/11/2019,,2yr,HSBC,1.29,75
+30/11/2019,,2yr,Leeds BS,1.39,75
+30/11/2019,,2yr,Metro Bank,2.09,75
+30/11/2019,,2yr,NatWest,1.25,75
+30/11/2019,,2yr,Newcastle BS,1.99,75
+30/11/2019,,2yr,Nottingham BS,1.54,75
+30/11/2019,,2yr,Principality BS,1.43,75
+30/11/2019,,2yr,Royal Bank of Scotland,1.25,75
+30/11/2019,,2yr,Santander,1.29,75
+30/11/2019,,2yr,Skipton BS,1.59,75
+30/11/2019,,2yr,Virgin Money,1.7,75
+30/11/2019,,2yr,Yorkshire Bank,1.54,75
+30/11/2019,,2yr,Yorkshire Building Society,1.52,75
+30/11/2019,,5yr,Bank of Ireland UK,1.98,75
+30/11/2019,,5yr,Barclays Mortgage,1.78,75
+30/11/2019,,5yr,Clydesdale Bank,1.83,75
+30/11/2019,,5yr,Coventry BS,1.89,75
+30/11/2019,,5yr,HSBC,1.84,75
+30/11/2019,,5yr,Leeds BS,1.96,75
+30/11/2019,,5yr,Metro Bank,2.34,75
+30/11/2019,,5yr,NatWest,1.79,75
+30/11/2019,,5yr,Newcastle BS,2.49,75
+30/11/2019,,5yr,Nottingham BS,1.85,75
+30/11/2019,,5yr,Principality BS,1.9,75
+30/11/2019,,5yr,Royal Bank of Scotland,1.85,75
+30/11/2019,,5yr,Santander,1.89,75
+30/11/2019,,5yr,Skipton BS,2.01,75
+30/11/2019,,5yr,Virgin Money,2,75
+30/11/2019,,5yr,Yorkshire Bank,2.04,75
+30/11/2019,,5yr,Yorkshire Building Society,1.91,75
+31/12/2019,,2yr,Bank of Ireland UK,1.48,75
+31/12/2019,,2yr,Barclays Mortgage,1.32,75
+31/12/2019,,2yr,Clydesdale Bank,1.49,75
+31/12/2019,,2yr,Coventry BS,1.49,75
+31/12/2019,,2yr,HSBC,1.34,75
+31/12/2019,,2yr,Leeds BS,1.39,75
+31/12/2019,,2yr,Metro Bank,2.09,75
+31/12/2019,,2yr,NatWest,1.25,75
+31/12/2019,,2yr,Newcastle BS,1.99,75
+31/12/2019,,2yr,Nottingham BS,1.54,75
+31/12/2019,,2yr,Principality BS,1.43,75
+31/12/2019,,2yr,Royal Bank of Scotland,1.25,75
+31/12/2019,,2yr,Santander,1.44,75
+31/12/2019,,2yr,Skipton BS,1.58,75
+31/12/2019,,2yr,Virgin Money,1.7,75
+31/12/2019,,2yr,Yorkshire Bank,1.54,75
+31/12/2019,,2yr,Yorkshire Building Society,1.29,75
+31/12/2019,,5yr,Bank of Ireland UK,1.91,75
+31/12/2019,,5yr,Barclays Mortgage,1.78,75
+31/12/2019,,5yr,Clydesdale Bank,1.83,75
+31/12/2019,,5yr,Coventry BS,1.89,75
+31/12/2019,,5yr,HSBC,1.79,75
+31/12/2019,,5yr,Leeds BS,1.88,75
+31/12/2019,,5yr,Metro Bank,2.34,75
+31/12/2019,,5yr,NatWest,1.79,75
+31/12/2019,,5yr,Newcastle BS,2.49,75
+31/12/2019,,5yr,Nottingham BS,1.85,75
+31/12/2019,,5yr,Principality BS,1.9,75
+31/12/2019,,5yr,Royal Bank of Scotland,1.85,75
+31/12/2019,,5yr,Santander,1.95,75
+31/12/2019,,5yr,Skipton BS,1.94,75
+31/12/2019,,5yr,Virgin Money,2,75
+31/12/2019,,5yr,Yorkshire Bank,2.04,75
+31/12/2019,,5yr,Yorkshire Building Society,1.91,75
+31/01/2020,,2yr,Bank of Ireland UK,1.48,75
+31/01/2020,,2yr,Barclays Mortgage,1.32,75
+31/01/2020,,2yr,Clydesdale Bank,1.49,75
+31/01/2020,,2yr,Coventry BS,1.49,75
+31/01/2020,,2yr,HSBC,1.34,75
+31/01/2020,,2yr,Leeds BS,1.39,75
+31/01/2020,,2yr,Metro Bank,2.09,75
+31/01/2020,,2yr,NatWest,1.25,75
+31/01/2020,,2yr,Newcastle BS,1.99,75
+31/01/2020,,2yr,Nottingham BS,1.54,75
+31/01/2020,,2yr,Principality BS,1.55,75
+31/01/2020,,2yr,Royal Bank of Scotland,1.25,75
+31/01/2020,,2yr,Santander,1.39,75
+31/01/2020,,2yr,Skipton BS,1.58,75
+31/01/2020,,2yr,Virgin Money,1.7,75
+31/01/2020,,2yr,Yorkshire Bank,1.54,75
+31/01/2020,,2yr,Yorkshire Building Society,1.29,75
+31/01/2020,,5yr,Bank of Ireland UK,1.71,75
+31/01/2020,,5yr,Barclays Mortgage,1.67,75
+31/01/2020,,5yr,Clydesdale Bank,1.8,75
+31/01/2020,,5yr,Coventry BS,1.79,75
+31/01/2020,,5yr,HSBC,1.59,75
+31/01/2020,,5yr,Leeds BS,1.85,75
+31/01/2020,,5yr,Metro Bank,2.24,75
+31/01/2020,,5yr,NatWest,1.59,75
+31/01/2020,,5yr,Newcastle BS,2.49,75
+31/01/2020,,5yr,Nottingham BS,1.7,75
+31/01/2020,,5yr,Principality BS,1.68,75
+31/01/2020,,5yr,Royal Bank of Scotland,1.65,75
+31/01/2020,,5yr,Santander,1.59,75
+31/01/2020,,5yr,Skipton BS,1.74,75
+31/01/2020,,5yr,Virgin Money,1.69,75
+31/01/2020,,5yr,Yorkshire Bank,1.94,75
+31/01/2020,,5yr,Yorkshire Building Society,1.51,75
+29/02/2020,,2yr,Bank of Ireland UK,1.48,75
+29/02/2020,,2yr,Barclays Mortgage,1.32,75
+29/02/2020,,2yr,Clydesdale Bank,1.39,75
+29/02/2020,,2yr,Coventry BS,1.49,75
+29/02/2020,,2yr,HSBC,1.29,75
+29/02/2020,,2yr,Leeds BS,1.39,75
+29/02/2020,,2yr,Metro Bank,2.09,75
+29/02/2020,,2yr,NatWest,1.25,75
+29/02/2020,,2yr,Newcastle BS,2.15,75
+29/02/2020,,2yr,Nottingham BS,1.54,75
+29/02/2020,,2yr,Principality BS,1.61,75
+29/02/2020,,2yr,Royal Bank of Scotland,1.25,75
+29/02/2020,,2yr,Santander,1.39,75
+29/02/2020,,2yr,Skipton BS,1.49,75
+29/02/2020,,2yr,Virgin Money,1.7,75
+29/02/2020,,2yr,Yorkshire Bank,1.39,75
+29/02/2020,,2yr,Yorkshire Building Society,1.52,75
+29/02/2020,,5yr,Bank of Ireland UK,1.7,75
+29/02/2020,,5yr,Barclays Mortgage,1.57,75
+29/02/2020,,5yr,Clydesdale Bank,1.8,75
+29/02/2020,,5yr,Coventry BS,1.65,75
+29/02/2020,,5yr,HSBC,1.51,75
+29/02/2020,,5yr,Leeds BS,1.77,75
+29/02/2020,,5yr,Metro Bank,2.24,75
+29/02/2020,,5yr,NatWest,1.59,75
+29/02/2020,,5yr,Newcastle BS,2.49,75
+29/02/2020,,5yr,Nottingham BS,1.7,75
+29/02/2020,,5yr,Principality BS,1.68,75
+29/02/2020,,5yr,Royal Bank of Scotland,1.65,75
+29/02/2020,,5yr,Santander,1.59,75
+29/02/2020,,5yr,Skipton BS,1.65,75
+29/02/2020,,5yr,Virgin Money,1.69,75
+29/02/2020,,5yr,Yorkshire Bank,1.94,75
+29/02/2020,,5yr,Yorkshire Building Society,1.51,75
+31/03/2020,,2yr,Bank of Ireland UK,1.54,75
+31/03/2020,,2yr,Barclays Mortgage,1.29,75
+31/03/2020,,2yr,Clydesdale Bank,1.39,75
+31/03/2020,,2yr,Coventry BS,1.35,75
+31/03/2020,,2yr,HSBC,1.29,75
+31/03/2020,,2yr,Leeds BS,1.39,75
+31/03/2020,,2yr,Metro Bank,2.09,75
+31/03/2020,,2yr,NatWest,1.25,75
+31/03/2020,,2yr,Newcastle BS,2.15,75
+31/03/2020,,2yr,Nottingham BS,1.54,75
+31/03/2020,,2yr,Principality BS,1.62,75
+31/03/2020,,2yr,Royal Bank of Scotland,1.25,75
+31/03/2020,,2yr,Santander,1.39,75
+31/03/2020,,2yr,Skipton BS,1.49,75
+31/03/2020,,2yr,Virgin Money,1.7,75
+31/03/2020,,2yr,Yorkshire Bank,1.39,75
+31/03/2020,,2yr,Yorkshire Building Society,1.5,75
+31/03/2020,,5yr,Bank of Ireland UK,1.7,75
+31/03/2020,,5yr,Barclays Mortgage,1.64,75
+31/03/2020,,5yr,Clydesdale Bank,1.8,75
+31/03/2020,,5yr,Coventry BS,1.65,75
+31/03/2020,,5yr,HSBC,1.51,75
+31/03/2020,,5yr,Leeds BS,1.89,75
+31/03/2020,,5yr,Metro Bank,2.74,75
+31/03/2020,,5yr,NatWest,1.59,75
+31/03/2020,,5yr,Newcastle BS,2.49,75
+31/03/2020,,5yr,Nottingham BS,1.7,75
+31/03/2020,,5yr,Principality BS,1.76,75
+31/03/2020,,5yr,Royal Bank of Scotland,1.65,75
+31/03/2020,,5yr,Santander,1.59,75
+31/03/2020,,5yr,Skipton BS,1.65,75
+31/03/2020,,5yr,Virgin Money,1.69,75
+31/03/2020,,5yr,Yorkshire Bank,1.94,75
+31/03/2020,,5yr,Yorkshire Building Society,1.51,75
+30/04/2020,,2yr,Bank of Ireland UK,1.54,75
+30/04/2020,,2yr,Barclays Mortgage,1.44,75
+30/04/2020,,2yr,Clydesdale Bank,1.39,75
+30/04/2020,,2yr,Coventry BS,1.3,75
+30/04/2020,,2yr,HSBC,1.34,75
+30/04/2020,,2yr,Leeds BS,1.34,75
+30/04/2020,,2yr,Metro Bank,2.59,75
+30/04/2020,,2yr,NatWest,1.25,75
+30/04/2020,,2yr,Newcastle BS,2.15,75
+30/04/2020,,2yr,Nottingham BS,1.54,75
+30/04/2020,,2yr,Principality BS,1.62,75
+30/04/2020,,2yr,Royal Bank of Scotland,1.25,75
+30/04/2020,,2yr,Santander,1.44,75
+30/04/2020,,2yr,Skipton BS,1.49,75
+30/04/2020,,2yr,Virgin Money,1.7,75
+30/04/2020,,2yr,Yorkshire Bank,1.39,75
+30/04/2020,,2yr,Yorkshire Building Society,1.5,75
+30/04/2020,,5yr,Bank of Ireland UK,1.7,75
+30/04/2020,,5yr,Barclays Mortgage,1.64,75
+30/04/2020,,5yr,Clydesdale Bank,1.8,75
+30/04/2020,,5yr,Coventry BS,1.65,75
+30/04/2020,,5yr,HSBC,1.51,75
+30/04/2020,,5yr,Leeds BS,1.89,75
+30/04/2020,,5yr,Metro Bank,2.74,75
+30/04/2020,,5yr,NatWest,1.59,75
+30/04/2020,,5yr,Newcastle BS,2.49,75
+30/04/2020,,5yr,Nottingham BS,1.7,75
+30/04/2020,,5yr,Principality BS,1.76,75
+30/04/2020,,5yr,Royal Bank of Scotland,1.65,75
+30/04/2020,,5yr,Santander,1.59,75
+30/04/2020,,5yr,Skipton BS,1.65,75
+30/04/2020,,5yr,Virgin Money,1.69,75
+30/04/2020,,5yr,Yorkshire Bank,1.94,75
+30/04/2020,,5yr,Yorkshire Building Society,1.51,75
+31/05/2020,,2yr,Bank of Ireland UK,1.54,75
+31/05/2020,,2yr,Barclays Mortgage,1.52,75
+31/05/2020,,2yr,Clydesdale Bank,1.39,75
+31/05/2020,,2yr,Coventry BS,1.3,75
+31/05/2020,,2yr,HSBC,1.44,75
+31/05/2020,,2yr,Leeds BS,1.49,75
+31/05/2020,,2yr,Metro Bank,2.59,75
+31/05/2020,,2yr,NatWest,1.41,75
+31/05/2020,,2yr,Newcastle BS,2.15,75
+31/05/2020,,2yr,Nottingham BS,1.54,75
+31/05/2020,,2yr,Principality BS,1.65,75
+31/05/2020,,2yr,Royal Bank of Scotland,1.41,75
+31/05/2020,,2yr,Santander,1.44,75
+31/05/2020,,2yr,Skipton BS,1.49,75
+31/05/2020,,2yr,Virgin Money,1.7,75
+31/05/2020,,2yr,Yorkshire Bank,1.39,75
+31/05/2020,,2yr,Yorkshire Building Society,1.33,75
+31/05/2020,,5yr,Bank of Ireland UK,2.02,75
+31/05/2020,,5yr,Barclays Mortgage,1.8,75
+31/05/2020,,5yr,Clydesdale Bank,1.8,75
+31/05/2020,,5yr,Coventry BS,1.65,75
+31/05/2020,,5yr,HSBC,1.71,75
+31/05/2020,,5yr,Leeds BS,1.99,75
+31/05/2020,,5yr,Metro Bank,2.84,75
+31/05/2020,,5yr,NatWest,1.77,75
+31/05/2020,,5yr,Newcastle BS,2.49,75
+31/05/2020,,5yr,Nottingham BS,1.7,75
+31/05/2020,,5yr,Principality BS,1.8,75
+31/05/2020,,5yr,Royal Bank of Scotland,1.79,75
+31/05/2020,,5yr,Santander,1.59,75
+31/05/2020,,5yr,Skipton BS,1.65,75
+31/05/2020,,5yr,Virgin Money,1.69,75
+31/05/2020,,5yr,Yorkshire Bank,1.94,75
+31/05/2020,,5yr,Yorkshire Building Society,2.05,75
+30/06/2020,,2yr,Bank of Ireland UK,1.44,75
+30/06/2020,,2yr,Barclays Mortgage,1.34,75
+30/06/2020,,2yr,Clydesdale Bank,1.39,75
+30/06/2020,,2yr,Coventry BS,1.3,75
+30/06/2020,,2yr,HSBC,1.24,75
+30/06/2020,,2yr,Leeds BS,1.24,75
+30/06/2020,,2yr,Metro Bank,2.59,75
+30/06/2020,,2yr,NatWest,1.25,75
+30/06/2020,,2yr,Newcastle BS,2.15,75
+30/06/2020,,2yr,Nottingham BS,1.54,75
+30/06/2020,,2yr,Principality BS,1.65,75
+30/06/2020,,2yr,Royal Bank of Scotland,1.25,75
+30/06/2020,,2yr,Santander,1.44,75
+30/06/2020,,2yr,Skipton BS,1.29,75
+30/06/2020,,2yr,Virgin Money,1.7,75
+30/06/2020,,2yr,Yorkshire Bank,1.39,75
+30/06/2020,,2yr,Yorkshire Building Society,1.33,75
+30/06/2020,,5yr,Bank of Ireland UK,1.63,75
+30/06/2020,,5yr,Barclays Mortgage,1.55,75
+30/06/2020,,5yr,Clydesdale Bank,1.8,75
+30/06/2020,,5yr,Coventry BS,1.59,75
+30/06/2020,,5yr,HSBC,1.46,75
+30/06/2020,,5yr,Leeds BS,1.65,75
+30/06/2020,,5yr,Metro Bank,2.84,75
+30/06/2020,,5yr,NatWest,1.59,75
+30/06/2020,,5yr,Newcastle BS,2.49,75
+30/06/2020,,5yr,Nottingham BS,1.7,75
+30/06/2020,,5yr,Principality BS,1.71,75
+30/06/2020,,5yr,Royal Bank of Scotland,1.65,75
+30/06/2020,,5yr,Santander,1.59,75
+30/06/2020,,5yr,Skipton BS,1.57,75
+30/06/2020,,5yr,Virgin Money,1.69,75
+30/06/2020,,5yr,Yorkshire Bank,1.94,75
+30/06/2020,,5yr,Yorkshire Building Society,1.53,75
+31/07/2020,,2yr,Bank of Ireland UK,1.44,75
+31/07/2020,,2yr,Barclays Mortgage,1.21,75
+31/07/2020,,2yr,Clydesdale Bank,1.39,75
+31/07/2020,,2yr,Coventry BS,1.3,75
+31/07/2020,,2yr,HSBC,1.24,75
+31/07/2020,,2yr,Leeds BS,1.14,75
+31/07/2020,,2yr,Metro Bank,2.59,75
+31/07/2020,,2yr,NatWest,1.24,75
+31/07/2020,,2yr,Newcastle BS,2.15,75
+31/07/2020,,2yr,Nottingham BS,1.54,75
+31/07/2020,,2yr,Principality BS,1.52,75
+31/07/2020,,2yr,Royal Bank of Scotland,1.24,75
+31/07/2020,,2yr,Santander,1.44,75
+31/07/2020,,2yr,Skipton BS,1.41,75
+31/07/2020,,2yr,Virgin Money,1.7,75
+31/07/2020,,2yr,Yorkshire Bank,1.39,75
+31/07/2020,,2yr,Yorkshire Building Society,1.33,75
+31/07/2020,,5yr,Bank of Ireland UK,1.63,75
+31/07/2020,,5yr,Barclays Mortgage,1.48,75
+31/07/2020,,5yr,Clydesdale Bank,1.8,75
+31/07/2020,,5yr,Coventry BS,1.59,75
+31/07/2020,,5yr,HSBC,1.46,75
+31/07/2020,,5yr,Leeds BS,1.58,75
+31/07/2020,,5yr,Metro Bank,2.84,75
+31/07/2020,,5yr,NatWest,1.54,75
+31/07/2020,,5yr,Newcastle BS,2.49,75
+31/07/2020,,5yr,Nottingham BS,1.7,75
+31/07/2020,,5yr,Principality BS,1.71,75
+31/07/2020,,5yr,Royal Bank of Scotland,1.6,75
+31/07/2020,,5yr,Santander,1.59,75
+31/07/2020,,5yr,Skipton BS,1.49,75
+31/07/2020,,5yr,Virgin Money,1.69,75
+31/07/2020,,5yr,Yorkshire Bank,1.94,75
+31/07/2020,,5yr,Yorkshire Building Society,1.59,75
+31/08/2020,,2yr,Bank of Ireland UK,1.69,75
+31/08/2020,,2yr,Barclays Mortgage,1.85,75
+31/08/2020,,2yr,Clydesdale Bank,1.49,75
+31/08/2020,,2yr,Coventry BS,1.45,75
+31/08/2020,,2yr,HSBC,1.34,75
+31/08/2020,,2yr,Leeds BS,1.14,75
+31/08/2020,,2yr,Metro Bank,2.59,75
+31/08/2020,,2yr,NatWest,1.34,75
+31/08/2020,,2yr,Newcastle BS,1.99,75
+31/08/2020,,2yr,Nottingham BS,1.8,75
+31/08/2020,,2yr,Principality BS,1.85,75
+31/08/2020,,2yr,Royal Bank of Scotland,1.34,75
+31/08/2020,,2yr,Santander,1.69,75
+31/08/2020,,2yr,Skipton BS,1.99,75
+31/08/2020,,2yr,Virgin Money,1.9,75
+31/08/2020,,2yr,Yorkshire Bank,1.49,75
+31/08/2020,,2yr,Yorkshire Building Society,1.7,75
+31/08/2020,,5yr,Bank of Ireland UK,1.81,75
+31/08/2020,,5yr,Barclays Mortgage,1.99,75
+31/08/2020,,5yr,Clydesdale Bank,1.8,75
+31/08/2020,,5yr,Coventry BS,1.75,75
+31/08/2020,,5yr,HSBC,1.66,75
+31/08/2020,,5yr,Leeds BS,1.78,75
+31/08/2020,,5yr,Metro Bank,2.84,75
+31/08/2020,,5yr,NatWest,1.6,75
+31/08/2020,,5yr,Newcastle BS,2.49,75
+31/08/2020,,5yr,Nottingham BS,1.7,75
+31/08/2020,,5yr,Principality BS,1.97,75
+31/08/2020,,5yr,Royal Bank of Scotland,1.6,75
+31/08/2020,,5yr,Santander,1.79,75
+31/08/2020,,5yr,Skipton BS,1.49,75
+31/08/2020,,5yr,Virgin Money,1.89,75
+31/08/2020,,5yr,Yorkshire Bank,1.94,75
+31/08/2020,,5yr,Yorkshire Building Society,1.99,75
+30/09/2020,,2yr,Bank of Ireland UK,2,75
+30/09/2020,,2yr,Barclays Mortgage,1.99,75
+30/09/2020,,2yr,Clydesdale Bank,1.94,75
+30/09/2020,,2yr,Coventry BS,1.89,75
+30/09/2020,,2yr,HSBC,1.59,75
+30/09/2020,,2yr,Leeds BS,1.44,75
+30/09/2020,,2yr,Metro Bank,2.59,75
+30/09/2020,,2yr,NatWest,1.61,75
+30/09/2020,,2yr,Newcastle BS,2.24,75
+30/09/2020,,2yr,Nottingham BS,1.8,75
+30/09/2020,,2yr,Principality BS,2.06,75
+30/09/2020,,2yr,Royal Bank of Scotland,1.66,75
+30/09/2020,,2yr,Santander,1.69,75
+30/09/2020,,2yr,Skipton BS,2.11,75
+30/09/2020,,2yr,Virgin Money,2.18,75
+30/09/2020,,2yr,Yorkshire Bank,1.49,75
+30/09/2020,,2yr,Yorkshire Building Society,1.7,75
+30/09/2020,,5yr,Bank of Ireland UK,2.27,75
+30/09/2020,,5yr,Barclays Mortgage,2.24,75
+30/09/2020,,5yr,Clydesdale Bank,2.24,75
+30/09/2020,,5yr,Coventry BS,2.15,75
+30/09/2020,,5yr,HSBC,1.86,75
+30/09/2020,,5yr,Leeds BS,2.24,75
+30/09/2020,,5yr,Metro Bank,2.74,75
+30/09/2020,,5yr,NatWest,1.79,75
+30/09/2020,,5yr,Newcastle BS,2.29,75
+30/09/2020,,5yr,Nottingham BS,1.7,75
+30/09/2020,,5yr,Principality BS,2.17,75
+30/09/2020,,5yr,Royal Bank of Scotland,1.84,75
+30/09/2020,,5yr,Santander,1.79,75
+30/09/2020,,5yr,Skipton BS,2.55,75
+30/09/2020,,5yr,Virgin Money,2.22,75
+30/09/2020,,5yr,Yorkshire Bank,2.59,75
+30/09/2020,,5yr,Yorkshire Building Society,1.99,75
+31/10/2020,,2yr,Bank of Ireland UK,2,75
+31/10/2020,,2yr,Barclays Mortgage,1.99,75
+31/10/2020,,2yr,Clydesdale Bank,1.94,75
+31/10/2020,,2yr,Coventry BS,1.89,75
+31/10/2020,,2yr,HSBC,1.59,75
+31/10/2020,,2yr,Leeds BS,1.44,75
+31/10/2020,,2yr,Metro Bank,2.59,75
+31/10/2020,,2yr,NatWest,1.61,75
+31/10/2020,,2yr,Newcastle BS,2.24,75
+31/10/2020,,2yr,Nottingham BS,1.8,75
+31/10/2020,,2yr,Principality BS,2.06,75
+31/10/2020,,2yr,Royal Bank of Scotland,1.66,75
+31/10/2020,,2yr,Santander,1.69,75
+31/10/2020,,2yr,Skipton BS,2.11,75
+31/10/2020,,2yr,Virgin Money,2.18,75
+31/10/2020,,2yr,Yorkshire Bank,1.49,75
+31/10/2020,,2yr,Yorkshire Building Society,1.7,75
+31/10/2020,,5yr,Bank of Ireland UK,2.27,75
+31/10/2020,,5yr,Barclays Mortgage,2.24,75
+31/10/2020,,5yr,Clydesdale Bank,2.24,75
+31/10/2020,,5yr,Coventry BS,2.15,75
+31/10/2020,,5yr,HSBC,1.86,75
+31/10/2020,,5yr,Leeds BS,2.24,75
+31/10/2020,,5yr,Metro Bank,2.74,75
+31/10/2020,,5yr,NatWest,1.79,75
+31/10/2020,,5yr,Newcastle BS,2.29,75
+31/10/2020,,5yr,Nottingham BS,1.7,75
+31/10/2020,,5yr,Principality BS,2.17,75
+31/10/2020,,5yr,Royal Bank of Scotland,1.84,75
+31/10/2020,,5yr,Santander,1.79,75
+31/10/2020,,5yr,Skipton BS,2.55,75
+31/10/2020,,5yr,Virgin Money,2.22,75
+31/10/2020,,5yr,Yorkshire Bank,2.59,75
+31/10/2020,,5yr,Yorkshire Building Society,1.99,75
+30/11/2020,,2yr,Bank of Ireland UK,2.2,75
+30/11/2020,,2yr,Barclays Mortgage,1.57,75
+30/11/2020,,2yr,Clydesdale Bank,1.89,75
+30/11/2020,,2yr,Coventry BS,1.95,75
+30/11/2020,,2yr,HSBC,1.59,75
+30/11/2020,,2yr,Leeds BS,1.59,75
+30/11/2020,,2yr,Metro Bank,2.59,75
+30/11/2020,,2yr,NatWest,1.61,75
+30/11/2020,,2yr,Newcastle BS,1.89,75
+30/11/2020,,2yr,Nottingham BS,1.8,75
+30/11/2020,,2yr,Principality BS,1.86,75
+30/11/2020,,2yr,Royal Bank of Scotland,1.61,75
+30/11/2020,,2yr,Santander,1.59,75
+30/11/2020,,2yr,Skipton BS,1.99,75
+30/11/2020,,2yr,Virgin Money,2.18,75
+30/11/2020,,2yr,Yorkshire Bank,1.49,75
+30/11/2020,,2yr,Yorkshire Building Society,1.99,75
+30/11/2020,,5yr,Bank of Ireland UK,2.47,75
+30/11/2020,,5yr,Barclays Mortgage,1.7,75
+30/11/2020,,5yr,Clydesdale Bank,1.99,75
+30/11/2020,,5yr,Coventry BS,2.19,75
+30/11/2020,,5yr,HSBC,1.86,75
+30/11/2020,,5yr,Leeds BS,2.09,75
+30/11/2020,,5yr,Metro Bank,2.74,75
+30/11/2020,,5yr,NatWest,1.79,75
+30/11/2020,,5yr,Newcastle BS,2.29,75
+30/11/2020,,5yr,Nottingham BS,2.2,75
+30/11/2020,,5yr,Principality BS,1.98,75
+30/11/2020,,5yr,Royal Bank of Scotland,1.79,75
+30/11/2020,,5yr,Santander,1.89,75
+30/11/2020,,5yr,Skipton BS,2.49,75
+30/11/2020,,5yr,Virgin Money,2.13,75
+30/11/2020,,5yr,Yorkshire Bank,2.59,75
+30/11/2020,,5yr,Yorkshire Building Society,2.19,75
+31/12/2020,,2yr,Bank of Ireland UK,2.2,75
+31/12/2020,,2yr,Barclays Mortgage,1.57,75
+31/12/2020,,2yr,Clydesdale Bank,1.19,75
+31/12/2020,,2yr,Coventry BS,1.95,75
+31/12/2020,,2yr,HSBC,1.59,75
+31/12/2020,,2yr,Leeds BS,1.49,75
+31/12/2020,,2yr,Metro Bank,2.59,75
+31/12/2020,,2yr,NatWest,1.56,75
+31/12/2020,,2yr,Newcastle BS,1.89,75
+31/12/2020,,2yr,Nottingham BS,2,75
+31/12/2020,,2yr,Principality BS,1.86,75
+31/12/2020,,2yr,Royal Bank of Scotland,1.56,75
+31/12/2020,,2yr,Santander,1.59,75
+31/12/2020,,2yr,Skipton BS,2.29,75
+31/12/2020,,2yr,Virgin Money,2.18,75
+31/12/2020,,2yr,Yorkshire Bank,1.49,75
+31/12/2020,,2yr,Yorkshire Building Society,1.99,75
+31/12/2020,,5yr,Bank of Ireland UK,2.47,75
+31/12/2020,,5yr,Barclays Mortgage,1.62,75
+31/12/2020,,5yr,Clydesdale Bank,1.65,75
+31/12/2020,,5yr,Coventry BS,2.19,75
+31/12/2020,,5yr,HSBC,1.86,75
+31/12/2020,,5yr,Leeds BS,1.68,75
+31/12/2020,,5yr,Metro Bank,2.74,75
+31/12/2020,,5yr,NatWest,1.68,75
+31/12/2020,,5yr,Newcastle BS,2.29,75
+31/12/2020,,5yr,Nottingham BS,1.95,75
+31/12/2020,,5yr,Principality BS,1.98,75
+31/12/2020,,5yr,Royal Bank of Scotland,1.68,75
+31/12/2020,,5yr,Santander,1.89,75
+31/12/2020,,5yr,Skipton BS,2.59,75
+31/12/2020,,5yr,Virgin Money,1.88,75
+31/12/2020,,5yr,Yorkshire Bank,1.94,75
+31/12/2020,,5yr,Yorkshire Building Society,2.19,75
+31/01/2021,,2yr,Bank of Ireland UK,2.2,75
+31/01/2021,,2yr,Barclays Mortgage,1.44,75
+31/01/2021,,2yr,Clydesdale Bank,1.19,75
+31/01/2021,,2yr,Coventry BS,1.89,75
+31/01/2021,,2yr,HSBC,1.44,75
+31/01/2021,,2yr,Leeds BS,1.49,75
+31/01/2021,,2yr,Metro Bank,2.79,75
+31/01/2021,,2yr,NatWest,1.56,75
+31/01/2021,,2yr,Newcastle BS,1.89,75
+31/01/2021,,2yr,Nottingham BS,2,75
+31/01/2021,,2yr,Principality BS,1.78,75
+31/01/2021,,2yr,Royal Bank of Scotland,1.56,75
+31/01/2021,,2yr,Santander,1.54,75
+31/01/2021,,2yr,Skipton BS,2.01,75
+31/01/2021,,2yr,Virgin Money,2.18,75
+31/01/2021,,2yr,Yorkshire Bank,1.49,75
+31/01/2021,,2yr,Yorkshire Building Society,1.5,75
+31/01/2021,,5yr,Bank of Ireland UK,2.47,75
+31/01/2021,,5yr,Barclays Mortgage,1.62,75
+31/01/2021,,5yr,Clydesdale Bank,1.65,75
+31/01/2021,,5yr,Coventry BS,2.15,75
+31/01/2021,,5yr,HSBC,1.61,75
+31/01/2021,,5yr,Leeds BS,2.19,75
+31/01/2021,,5yr,Metro Bank,2.74,75
+31/01/2021,,5yr,NatWest,1.68,75
+31/01/2021,,5yr,Newcastle BS,2.29,75
+31/01/2021,,5yr,Nottingham BS,1.95,75
+31/01/2021,,5yr,Principality BS,1.9,75
+31/01/2021,,5yr,Royal Bank of Scotland,1.68,75
+31/01/2021,,5yr,Santander,1.89,75
+31/01/2021,,5yr,Skipton BS,2.59,75
+31/01/2021,,5yr,Virgin Money,1.88,75
+31/01/2021,,5yr,Yorkshire Bank,1.94,75
+31/01/2021,,5yr,Yorkshire Building Society,1.67,75
+28/02/2021,,2yr,Bank of Ireland UK,2.2,75
+28/02/2021,,2yr,Barclays Mortgage,1.44,75
+28/02/2021,,2yr,Clydesdale Bank,1.19,75
+28/02/2021,,2yr,Coventry BS,1.89,75
+28/02/2021,,2yr,HSBC,1.49,75
+28/02/2021,,2yr,Leeds BS,1.49,75
+28/02/2021,,2yr,Metro Bank,2.79,75
+28/02/2021,,2yr,NatWest,1.44,75
+28/02/2021,,2yr,Newcastle BS,2.04,75
+28/02/2021,,2yr,Nottingham BS,2,75
+28/02/2021,,2yr,Principality BS,1.89,75
+28/02/2021,,2yr,Royal Bank of Scotland,1.56,75
+28/02/2021,,2yr,Santander,1.43,75
+28/02/2021,,2yr,Skipton BS,2.01,75
+28/02/2021,,2yr,Virgin Money,2.18,75
+28/02/2021,,2yr,Yorkshire Bank,1.49,75
+28/02/2021,,2yr,Yorkshire Building Society,1.5,75
+28/02/2021,,5yr,Bank of Ireland UK,2.47,75
+28/02/2021,,5yr,Barclays Mortgage,1.49,75
+28/02/2021,,5yr,Clydesdale Bank,1.65,75
+28/02/2021,,5yr,Coventry BS,2.15,75
+28/02/2021,,5yr,HSBC,1.66,75
+28/02/2021,,5yr,Leeds BS,1.78,75
+28/02/2021,,5yr,Metro Bank,2.74,75
+28/02/2021,,5yr,NatWest,1.63,75
+28/02/2021,,5yr,Newcastle BS,2.29,75
+28/02/2021,,5yr,Nottingham BS,1.95,75
+28/02/2021,,5yr,Principality BS,2.16,75
+28/02/2021,,5yr,Royal Bank of Scotland,1.68,75
+28/02/2021,,5yr,Santander,1.73,75
+28/02/2021,,5yr,Skipton BS,2.35,75
+28/02/2021,,5yr,Virgin Money,1.68,75
+28/02/2021,,5yr,Yorkshire Bank,2.09,75
+28/02/2021,,5yr,Yorkshire Building Society,1.75,75
+31/03/2021,610754_638348_0_54_611332_0,2yr,AIB,1.89,75
+31/03/2021,616155_643917_587326_3_616848_0,2yr,Accord Mortgages,1.69,75
+31/03/2021,598178_625350_569552_6256_598418_0,2yr,Al Rayan Bank,3.89,80
+31/03/2021,592523_619500_563999_5955_592695_0,2yr,Aldermore,3.48,75
+31/03/2021,606355_633776_577607_5921_606824_0,2yr,Bank of Ireland UK,2.2,75
+31/03/2021,604777_632183_576065_5611_605199_0,2yr,Barclays Mortgage,1.38,75
+31/03/2021,613184_640849_0_17_613827_0,2yr,Beverley BS,2.75,85
+31/03/2021,599091_626286_570437_25_599393_0,2yr,Buckinghamshire BS,3.39,100
+31/03/2021,575511_601996_547419_6100_575313_0,2yr,Cambridge BS,2.29,75
+31/03/2021,616903_644665_588072_30_617645_0,2yr,Chelsea Building Society,1.72,75
+31/03/2021,613502_641169_584675_36_614146_0,2yr,Clydesdale Bank,1.24,75
+31/03/2021,613218_640885_584392_40_613861_0,2yr,Coventry BS,1.75,75
+31/03/2021,614198_641872_585371_41_614891_0,2yr,Cumberland BS,1.76,75
+31/03/2021,613848_641519_585021_108_614500_0,2yr,Danske Bank,2.18,75
+31/03/2021,606671_634093_577922_42_607142_0,2yr,Darlington BS,2.69,80
+31/03/2021,615664_643424_586759_6158_616357_0,2yr,Digital Mortgages by Atom Bank,2.99,75
+31/03/2021,614131_641805_585304_45_614824_0,2yr,Dudley BS,3.69,85
+31/03/2021,607157_634591_578402_6050_607650_0,2yr,Family Building Society,2.84,75
+31/03/2021,603468_630873_574761_6161_603876_0,2yr,Foundation Home Loans,3.49,75
+31/03/2021,601124_628349_572358_58_601478_0,2yr,Furness BS,1.19,75
+31/03/2021,614471_642148_0_6237_615164_0,2yr,Gatehouse Bank,3.49,80
+31/03/2021,616556_644318_587727_64_617298_0,2yr,HSBC,1.39,75
+31/03/2021,617252_645014_588421_65_617994_0,2yr,Halifax,1.31,75
+31/03/2021,603184_630586_574477_67_603592_0,2yr,Harpenden BS,2.75,80
+31/03/2021,527565_552695_500872_72_526021_0,2yr,Hinckley & Rugby BS,2.59,80
+31/03/2021,613999_641673_585172_5272_614682_0,2yr,Ipswich BS,2.75,75
+31/03/2021,608281_635731_579524_6248_608787_0,2yr,Kensington,3.24,75
+31/03/2021,592317_619292_563801_80_592485_0,2yr,Kent Reliance,3.29,75
+31/03/2021,608553_636025_579796_5976_609059_0,2yr,Leeds BS,1.42,75
+31/03/2021,611922_639518_583101_6142_612500_0,2yr,Leek United BS,1.98,80
+31/03/2021,617025_644787_588194_5928_617767_0,2yr,Lloyds Bank,2.5,75
+31/03/2021,611084_638678_582301_86_611662_0,2yr,Loughborough BS,2.95,85
+31/03/2021,601290_628519_0_6112_601644_0,2yr,Mansfield BS,2.79,80
+31/03/2021,612979_640636_584154_91_613622_0,2yr,Marsden BS,1.99,80
+31/03/2021,602086_629346_573310_6168_602483_0,2yr,Masthaven Bank,3.69,75
+31/03/2021,605195_632611_576483_5969_605660_0,2yr,Metro Bank,2.59,75
+31/03/2021,588371_615204_559919_95_588464_0,2yr,Monmouthshire BS,1.6,75
+31/03/2021,616021_643783_587192_103_616714_0,2yr,NatWest,1.38,75
+31/03/2021,616246_644008_587417_5937_616939_0,2yr,NatWest Int Sols,1.38,75
+31/03/2021,614098_641772_585271_102_614789_0,2yr,Nationwide BS,1.49,75
+31/03/2021,599676_626875_571010_5973_599998_0,2yr,Newcastle BS,1.85,80
+31/03/2021,612235_639850_583414_6108_612813_0,2yr,Nottingham BS,1.65,75
+31/03/2021,594661_621726_0_6243_594867_0,2yr,Paragon Bank,3.45,75
+31/03/2021,574564_600988_546480_6040_574293_0,2yr,Penrith BS,2.99,80
+31/03/2021,600466_627691_571794_6126_600814_0,2yr,Pepper Money,3.45,75
+31/03/2021,615227_642987_586334_6002_615920_0,2yr,Platform,1.32,75
+31/03/2021,611629_639225_582842_5895_612207_0,2yr,Post Office Money®,2.1,75
+31/03/2021,575893_602378_547799_6067_575695_0,2yr,Precise Mortgages,3.49,75
+31/03/2021,612202_639817_583381_6048_612780_0,2yr,Principality BS,1.56,75
+31/03/2021,595166_622232_566626_119_595372_0,2yr,Progressive BS,1.84,75
+31/03/2021,608534_636006_579777_6260_609040_0,2yr,Reliance Bank,3.59,90
+31/03/2021,615890_643652_587061_121_616583_0,2yr,Royal Bank of Scotland,1.38,75
+31/03/2021,606370_633791_577622_5972_606839_0,2yr,Saffron BS,2.67,80
+31/03/2021,612349_639968_583528_5946_612931_0,2yr,Santander,1.43,75
+31/03/2021,537084_562469_510045_128_535844_0,2yr,Scottish BS,2.19,75
+31/03/2021,616799_644561_587970_129_617541_0,2yr,Scottish Widows Bank,2.13,75
+31/03/2021,614355_642032_585528_6164_615048_0,2yr,Skipton BS,1.79,75
+31/03/2021,614545_642222_585714_6028_615238_0,2yr,TSB,1.39,75
+31/03/2021,598545_625725_569901_6070_598840_0,2yr,Teachers BS,3.54,80
+31/03/2021,608934_636406_579999_92_609484_0,2yr,The Melton BS,2.09,75
+31/03/2021,606397_633818_577649_6123_606868_0,2yr,The Mortgage Lender,3.31,75
+31/03/2021,605945_633363_577229_146_606414_0,2yr,Ulster Bank,2.09,80
+31/03/2021,610194_637707_581421_6261_610752_0,2yr,United Trust Bank,3.9,75
+31/03/2021,613668_641337_584841_6227_614312_0,2yr,Vida Homeloans,3.18,75
+31/03/2021,613100_640757_584275_109_613743_0,2yr,Virgin Money,2.08,75
+31/03/2021,609679_637167_580906_148_610231_0,2yr,West Brom BS,1.54,75
+31/03/2021,613526_641193_584699_152_614170_0,2yr,Yorkshire Bank,1.49,75
+31/03/2021,616975_644737_588144_153_617717_0,2yr,Yorkshire Building Society,1.4,75
+31/03/2021,592451_619428_563928_51_592619_0,2yr,first direct,1.54,75
+31/03/2021,610758_638352_0_54_611336_0,5yr,AIB,1.74,75
+31/03/2021,616124_643886_587295_3_616817_0,5yr,Accord Mortgages,1.74,75
+31/03/2021,598183_625355_569557_6256_598428_0,5yr,Al Rayan Bank,3.99,80
+31/03/2021,592525_619502_564001_5955_592699_0,5yr,Aldermore,3.68,75
+31/03/2021,606352_633773_577604_5921_606821_0,5yr,Bank of Ireland UK,2.47,75
+31/03/2021,603696_631102_574988_5611_604104_0,5yr,Barclays Mortgage,1.49,75
+31/03/2021,606094_633515_577378_5994_606563_0,5yr,Bath BS,2.69,80
+31/03/2021,597081_624162_568525_6100_597313_0,5yr,Cambridge BS,2.64,80
+31/03/2021,616887_644649_588056_30_617629_0,5yr,Chelsea Building Society,1.82,75
+31/03/2021,613500_641167_584673_36_614144_0,5yr,Clydesdale Bank,1.53,75
+31/03/2021,613222_640889_584396_40_613865_0,5yr,Coventry BS,1.99,75
+31/03/2021,614185_641859_585358_41_614878_0,5yr,Cumberland BS,2.08,75
+31/03/2021,613863_641534_585036_108_614530_0,5yr,Danske Bank,2.04,75
+31/03/2021,606672_634094_577923_42_607143_0,5yr,Darlington BS,2.99,80
+31/03/2021,615667_643427_586762_6158_616360_0,5yr,Digital Mortgages by Atom Bank,3.04,75
+31/03/2021,614132_641806_585305_45_614825_0,5yr,Dudley BS,3.69,85
+31/03/2021,607161_634595_578406_6050_607654_0,5yr,Family Building Society,3.34,75
+31/03/2021,603470_630875_574763_6161_603878_0,5yr,Foundation Home Loans,3.89,75
+31/03/2021,608054_635504_579299_58_608553_0,5yr,Furness BS,2.49,80
+31/03/2021,614472_642149_0_6237_615165_0,5yr,Gatehouse Bank,3.85,80
+31/03/2021,616555_644317_587726_64_617297_0,5yr,HSBC,1.56,75
+31/03/2021,617268_645030_588437_65_618010_0,5yr,Halifax,1.75,75
+31/03/2021,512022_536817_485908_72_509929_0,5yr,Hinckley & Rugby BS,2.99,80
+31/03/2021,611527_639123_582740_5272_612105_0,5yr,Ipswich BS,3.1,75
+31/03/2021,608294_635763_579537_6082_608800_0,5yr,Kensington,3.64,75
+31/03/2021,592318_619293_563802_80_592486_0,5yr,Kent Reliance,3.49,75
+31/03/2021,608544_636016_579787_5976_609050_0,5yr,Leeds BS,1.93,75
+31/03/2021,611923_639519_583102_6142_612501_0,5yr,Leek United BS,2.25,80
+31/03/2021,617034_644796_588203_5928_617776_0,5yr,Lloyds Bank,2.71,75
+31/03/2021,606649_634071_577901_86_607120_0,5yr,Loughborough BS,2.99,80
+31/03/2021,581242_607929_552950_6112_581154_0,5yr,Mansfield BS,3.89,100
+31/03/2021,541044_566477_513778_6168_539940_0,5yr,Masthaven Bank,3.99,75
+31/03/2021,605201_632617_576489_5969_605666_0,5yr,Metro Bank,2.74,75
+31/03/2021,607913_635347_579158_95_608412_0,5yr,Monmouthshire BS,2.25,80
+31/03/2021,616023_643785_587194_103_616716_0,5yr,NatWest,1.64,75
+31/03/2021,616249_644011_587420_5937_616942_0,5yr,NatWest Int Sols,1.63,75
+31/03/2021,614084_641758_585257_102_614773_0,5yr,Nationwide BS,1.64,75
+31/03/2021,614271_641945_585444_106_614964_0,5yr,Newbury BS,2.49,75
+31/03/2021,581373_608060_553044_5973_581285_0,5yr,Newcastle BS,2.24,80
+31/03/2021,613466_641133_584639_6108_614110_0,5yr,Nottingham BS,1.75,75
+31/03/2021,594660_621725_0_6243_594866_0,5yr,Paragon Bank,3.75,75
+31/03/2021,600468_627693_571796_6126_600816_0,5yr,Pepper Money,3.45,75
+31/03/2021,615229_642989_586336_6002_615922_0,5yr,Platform,1.57,75
+31/03/2021,611631_639227_582844_5895_612209_0,5yr,Post Office Money®,2.44,75
+31/03/2021,575894_602379_547800_6067_575696_0,5yr,Precise Mortgages,3.59,75
+31/03/2021,612199_639814_583378_6048_612777_0,5yr,Principality BS,1.62,75
+31/03/2021,595176_622242_566636_119_595382_0,5yr,Progressive BS,2.65,75
+31/03/2021,608530_636002_579773_6260_609036_0,5yr,Reliance Bank,1.59,75
+31/03/2021,615892_643654_587063_121_616585_0,5yr,Royal Bank of Scotland,1.64,75
+31/03/2021,606371_633792_577623_5972_606840_0,5yr,Saffron BS,3.07,80
+31/03/2021,612347_639966_583526_5946_612927_0,5yr,Santander,1.73,75
+31/03/2021,602158_629420_573454_128_602566_0,5yr,Scottish BS,2.28,80
+31/03/2021,616805_644567_587976_5434_617547_0,5yr,Scottish Widows Bank,2.36,75
+31/03/2021,614357_642034_585530_6164_615050_0,5yr,Skipton BS,1.95,75
+31/03/2021,614536_642213_585705_6028_615229_0,5yr,TSB,1.84,75
+31/03/2021,612959_640616_584134_6144_613602_0,5yr,Teachers BS,3.79,90
+31/03/2021,602459_629729_573755_92_602867_0,5yr,The Melton BS,2.29,75
+31/03/2021,606401_633822_577653_6123_606872_0,5yr,The Mortgage Lender,4.03,75
+31/03/2021,606470_633892_577722_6174_606941_0,5yr,Tipton & Coseley BS,3.15,75
+31/03/2021,605961_633379_577245_146_606430_0,5yr,Ulster Bank,2.29,80
+31/03/2021,610200_637713_581427_6261_610758_0,5yr,United Trust Bank,4.05,75
+31/03/2021,617387_645149_588556_147_618138_0,5yr,Vernon BS,2.25,80
+31/03/2021,613680_641349_584853_6227_614324_0,5yr,Vida Homeloans,3.54,75
+31/03/2021,613111_640768_584286_109_613754_0,5yr,Virgin Money,1.68,75
+31/03/2021,609678_637166_580905_148_610230_0,5yr,West Brom BS,1.69,75
+31/03/2021,613524_641191_584697_152_614168_0,5yr,Yorkshire Bank,1.94,75
+31/03/2021,616934_644696_588103_153_617676_0,5yr,Yorkshire Building Society,1.63,75
+31/03/2021,604025_631431_575317_51_604441_0,5yr,first direct,1.69,75
+30-04-2021,610754_638348_0_54_611332_0,2yr,AIB,1.89,75.0
+30-04-2021,616155_643917_587326_3_616848_0,2yr,Accord Mortgages,1.69,75.0
+30-04-2021,598178_625350_569552_6256_598418_0,2yr,Al Rayan Bank,3.89,80.0
+30-04-2021,592523_619500_563999_5955_592695_0,2yr,Aldermore,3.48,75.0
+30-04-2021,606355_633776_577607_5921_606824_0,2yr,Bank of Ireland UK,2.2,75.0
+30-04-2021,618565_646417_589677_5611_619331_0,2yr,Barclays Mortgage,1.38,75.0
+30-04-2021,613184_640849_0_17_613827_0,2yr,Beverley BS,2.75,85.0
+30-04-2021,599091_626286_570437_25_599393_0,2yr,Buckinghamshire BS,3.39,100.0
+30-04-2021,575511_601996_547419_6100_575313_0,2yr,Cambridge BS,2.29,75.0
+30-04-2021,616903_644665_588072_30_617645_0,2yr,Chelsea Building Society,1.72,75.0
+30-04-2021,618114_645895_589165_36_618879_0,2yr,Clydesdale Bank,1.37,75.0
+30-04-2021,613218_640885_584392_40_613861_0,2yr,Coventry BS,1.75,75.0
+30-04-2021,614198_641872_585371_41_614891_0,2yr,Cumberland BS,1.76,75.0
+30-04-2021,613848_641519_585021_108_614500_0,2yr,Danske Bank,2.18,75.0
+30-04-2021,608905_636377_579948_42_609455_0,2yr,Darlington BS,2.69,80.0
+30-04-2021,615664_643424_586759_6158_616357_0,2yr,Digital Mortgages by Atom Bank,2.99,75.0
+30-04-2021,614131_641805_585304_45_614824_0,2yr,Dudley BS,3.69,85.0
+30-04-2021,607157_634591_578402_6050_607650_0,2yr,Family Building Society,2.84,75.0
+30-04-2021,603468_630873_574761_6161_603876_0,2yr,Foundation Home Loans,3.49,75.0
+30-04-2021,601124_628349_572358_58_601478_0,2yr,Furness BS,1.19,75.0
+30-04-2021,618709_646561_0_6237_619475_0,2yr,Gatehouse Bank,3.64,80.0
+30-04-2021,616556_644318_587727_64_617298_0,2yr,HSBC,1.39,75.0
+30-04-2021,617252_645014_588421_65_617994_0,2yr,Halifax,1.31,75.0
+30-04-2021,603184_630586_574477_67_603592_0,2yr,Harpenden BS,2.75,80.0
+30-04-2021,527565_552695_500872_72_526021_0,2yr,Hinckley & Rugby BS,2.45,80.0
+30-04-2021,613999_641673_585172_5272_614682_0,2yr,Ipswich BS,2.75,75.0
+30-04-2021,608281_635731_579524_6248_608787_0,2yr,Kensington,3.24,75.0
+30-04-2021,592317_619292_563801_80_592485_0,2yr,Kent Reliance,3.29,75.0
+30-04-2021,614941_642699_586110_5976_615634_0,2yr,Leeds BS,1.42,75.0
+30-04-2021,611922_639518_583101_6142_612500_0,2yr,Leek United BS,1.98,80.0
+30-04-2021,617025_644787_588194_5928_617767_0,2yr,Lloyds Bank,2.5,75.0
+30-04-2021,611084_638678_582301_86_611662_0,2yr,Loughborough BS,2.95,85.0
+30-04-2021,601290_628519_0_6112_601644_0,2yr,Mansfield BS,2.79,80.0
+30-04-2021,612979_640636_584154_91_613622_0,2yr,Marsden BS,1.99,80.0
+30-04-2021,602086_629346_573310_6168_602483_0,2yr,Masthaven Bank,3.69,75.0
+30-04-2021,605195_632611_576483_5969_605660_0,2yr,Metro Bank,2.59,75.0
+30-04-2021,588371_615204_559919_95_588464_0,2yr,Monmouthshire BS,1.6,75.0
+30-04-2021,616062_643824_587233_103_616755_0,2yr,NatWest,1.37,75.0
+30-04-2021,616311_644073_587482_5937_617004_0,2yr,NatWest Int Sols,1.37,75.0
+30-04-2021,617856_645618_588903_102_618615_0,2yr,Nationwide BS,1.49,75.0
+30-04-2021,599676_626875_571010_5973_599998_0,2yr,Newcastle BS,1.85,80.0
+30-04-2021,612235_639850_583414_6108_612813_0,2yr,Nottingham BS,1.65,75.0
+30-04-2021,574564_600988_546480_6040_574293_0,2yr,Penrith BS,2.99,80.0
+30-04-2021,600466_627691_571794_6126_600814_0,2yr,Pepper Money,3.45,75.0
+30-04-2021,615227_642987_586334_6002_615920_0,2yr,Platform,1.32,75.0
+30-04-2021,611629_639225_582842_5895_612207_0,2yr,Post Office Money®,2.1,75.0
+30-04-2021,575893_602378_547799_6067_575695_0,2yr,Precise Mortgages,3.49,75.0
+30-04-2021,618493_646345_589605_6048_619258_0,2yr,Principality BS,1.43,75.0
+30-04-2021,595166_622232_566626_119_595372_0,2yr,Progressive BS,1.84,75.0
+30-04-2021,608534_636006_579777_6260_609040_0,2yr,Reliance Bank,3.59,90.0
+30-04-2021,615943_643705_587114_121_616636_0,2yr,Royal Bank of Scotland,1.37,75.0
+30-04-2021,616457_644219_587628_5946_617154_0,2yr,Santander,1.39,75.0
+30-04-2021,537084_562469_510045_128_535844_0,2yr,Scottish BS,2.19,75.0
+30-04-2021,616799_644561_587970_129_617541_0,2yr,Scottish Widows Bank,2.13,75.0
+30-04-2021,614355_642032_585528_6164_615048_0,2yr,Skipton BS,1.79,75.0
+30-04-2021,614545_642222_585714_6028_615238_0,2yr,TSB,1.39,75.0
+30-04-2021,598545_625725_569901_6070_598840_0,2yr,Teachers BS,3.54,80.0
+30-04-2021,608934_636406_579999_92_609484_0,2yr,The Melton BS,2.09,75.0
+30-04-2021,606397_633818_577649_6123_606868_0,2yr,The Mortgage Lender,3.31,75.0
+30-04-2021,618666_646518_589778_146_619432_0,2yr,Ulster Bank,2.0,80.0
+30-04-2021,610194_637707_581421_6261_610752_0,2yr,United Trust Bank,3.9,75.0
+30-04-2021,613668_641337_584841_6227_614312_0,2yr,Vida Homeloans,3.18,75.0
+30-04-2021,613100_640757_584275_109_613743_0,2yr,Virgin Money,2.08,75.0
+30-04-2021,609679_637167_580906_148_610231_0,2yr,West Brom BS,1.54,75.0
+30-04-2021,618076_645857_589127_152_618841_0,2yr,Yorkshire Bank,1.49,75.0
+30-04-2021,616975_644737_588144_153_617717_0,2yr,Yorkshire Building Society,1.4,75.0
+30-04-2021,592451_619428_563928_51_592619_0,2yr,first direct,1.54,75.0
+30-04-2021,610758_638352_0_54_611336_0,5yr,AIB,1.74,75.0
+30-04-2021,616124_643886_587295_3_616817_0,5yr,Accord Mortgages,1.74,75.0
+30-04-2021,598183_625355_569557_6256_598428_0,5yr,Al Rayan Bank,3.99,80.0
+30-04-2021,592525_619502_564001_5955_592699_0,5yr,Aldermore,3.68,75.0
+30-04-2021,606356_633777_577608_5921_606825_0,5yr,Bank of Ireland UK,2.47,75.0
+30-04-2021,618560_646412_589672_5611_619326_0,5yr,Barclays Mortgage,1.49,75.0
+30-04-2021,606094_633515_577378_5994_606563_0,5yr,Bath BS,2.69,80.0
+30-04-2021,597081_624162_568525_6100_597313_0,5yr,Cambridge BS,2.64,80.0
+30-04-2021,616887_644649_588056_30_617629_0,5yr,Chelsea Building Society,1.82,75.0
+30-04-2021,618112_645893_589163_36_618877_0,5yr,Clydesdale Bank,1.53,75.0
+30-04-2021,613222_640889_584396_40_613865_0,5yr,Coventry BS,1.99,75.0
+30-04-2021,614185_641859_585358_41_614878_0,5yr,Cumberland BS,2.08,75.0
+30-04-2021,613863_641534_585036_108_614530_0,5yr,Danske Bank,2.04,75.0
+30-04-2021,608904_636376_579947_42_609454_0,5yr,Darlington BS,2.89,80.0
+30-04-2021,615667_643427_586762_6158_616360_0,5yr,Digital Mortgages by Atom Bank,3.04,75.0
+30-04-2021,614132_641806_585305_45_614825_0,5yr,Dudley BS,3.69,85.0
+30-04-2021,607161_634595_578406_6050_607654_0,5yr,Family Building Society,3.34,75.0
+30-04-2021,603470_630875_574763_6161_603878_0,5yr,Foundation Home Loans,3.89,75.0
+30-04-2021,608054_635504_579299_58_608553_0,5yr,Furness BS,2.49,80.0
+30-04-2021,618710_646562_0_6237_619476_0,5yr,Gatehouse Bank,4.0,80.0
+30-04-2021,616555_644317_587726_64_617297_0,5yr,HSBC,1.56,75.0
+30-04-2021,617268_645030_588437_65_618010_0,5yr,Halifax,1.75,75.0
+30-04-2021,512022_536817_485908_72_509929_0,5yr,Hinckley & Rugby BS,2.79,80.0
+30-04-2021,611527_639123_582740_5272_612105_0,5yr,Ipswich BS,3.1,75.0
+30-04-2021,608294_635763_579537_6082_608800_0,5yr,Kensington,3.64,75.0
+30-04-2021,592318_619293_563802_80_592486_0,5yr,Kent Reliance,3.49,75.0
+30-04-2021,613483_641150_584656_5976_614127_0,5yr,Leeds BS,1.93,75.0
+30-04-2021,611924_639520_583103_6142_612502_0,5yr,Leek United BS,2.25,80.0
+30-04-2021,617034_644796_588203_5928_617776_0,5yr,Lloyds Bank,2.71,75.0
+30-04-2021,606649_634071_577901_86_607120_0,5yr,Loughborough BS,2.99,80.0
+30-04-2021,581242_607929_552950_6112_581154_0,5yr,Mansfield BS,3.89,100.0
+30-04-2021,541044_566477_513778_6168_539940_0,5yr,Masthaven Bank,3.99,75.0
+30-04-2021,605201_632617_576489_5969_605666_0,5yr,Metro Bank,2.74,75.0
+30-04-2021,607913_635347_579158_95_608412_0,5yr,Monmouthshire BS,2.25,80.0
+30-04-2021,616065_643827_587236_103_616758_0,5yr,NatWest,1.58,75.0
+30-04-2021,616296_644058_587467_5937_616989_0,5yr,NatWest Int Sols,1.58,75.0
+30-04-2021,617842_645604_588889_102_618599_0,5yr,Nationwide BS,1.64,75.0
+30-04-2021,614271_641945_585444_106_614964_0,5yr,Newbury BS,2.49,75.0
+30-04-2021,581373_608060_553044_5973_581285_0,5yr,Newcastle BS,2.24,80.0
+30-04-2021,613466_641133_584639_6108_614110_0,5yr,Nottingham BS,1.75,75.0
+30-04-2021,617635_645397_0_6243_618390_0,5yr,Paragon Bank,3.75,75.0
+30-04-2021,600468_627693_571796_6126_600816_0,5yr,Pepper Money,3.45,75.0
+30-04-2021,615229_642989_586336_6002_615922_0,5yr,Platform,1.57,75.0
+30-04-2021,611631_639227_582844_5895_612209_0,5yr,Post Office Money®,2.44,75.0
+30-04-2021,575894_602379_547800_6067_575696_0,5yr,Precise Mortgages,3.59,75.0
+30-04-2021,618492_646344_589604_6048_619257_0,5yr,Principality BS,1.62,75.0
+30-04-2021,595176_622242_566636_119_595382_0,5yr,Progressive BS,2.65,75.0
+30-04-2021,608530_636002_579773_6260_609036_0,5yr,Reliance Bank,1.59,75.0
+30-04-2021,615944_643706_587115_121_616637_0,5yr,Royal Bank of Scotland,1.58,75.0
+30-04-2021,618282_646130_589395_5972_619047_0,5yr,Saffron BS,3.47,80.0
+30-04-2021,616455_644217_587626_5946_617150_0,5yr,Santander,1.63,75.0
+30-04-2021,602158_629420_573454_128_602566_0,5yr,Scottish BS,2.28,80.0
+30-04-2021,616805_644567_587976_5434_617547_0,5yr,Scottish Widows Bank,2.36,75.0
+30-04-2021,614357_642034_585530_6164_615050_0,5yr,Skipton BS,1.95,75.0
+30-04-2021,614536_642213_585705_6028_615229_0,5yr,TSB,1.84,75.0
+30-04-2021,612959_640616_584134_6144_613602_0,5yr,Teachers BS,3.79,90.0
+30-04-2021,602459_629729_573755_92_602867_0,5yr,The Melton BS,2.29,75.0
+30-04-2021,606401_633822_577653_6123_606872_0,5yr,The Mortgage Lender,4.03,75.0
+30-04-2021,606470_633892_577722_6174_606941_0,5yr,Tipton & Coseley BS,3.15,75.0
+30-04-2021,618682_646534_589794_146_619448_0,5yr,Ulster Bank,2.23,80.0
+30-04-2021,610200_637713_581427_6261_610758_0,5yr,United Trust Bank,4.05,75.0
+30-04-2021,617387_645149_588556_147_618138_0,5yr,Vernon BS,2.25,80.0
+30-04-2021,613674_641343_584847_6150_614318_0,5yr,Vida Homeloans,3.54,75.0
+30-04-2021,613111_640768_584286_109_613754_0,5yr,Virgin Money,1.68,75.0
+30-04-2021,609678_637166_580905_148_610230_0,5yr,West Brom BS,1.69,75.0
+30-04-2021,618074_645855_589125_152_618839_0,5yr,Yorkshire Bank,1.94,75.0
+30-04-2021,616934_644696_588103_153_617676_0,5yr,Yorkshire Building Society,1.63,75.0
+30-04-2021,604025_631431_575317_51_604441_0,5yr,first direct,1.69,75.0
